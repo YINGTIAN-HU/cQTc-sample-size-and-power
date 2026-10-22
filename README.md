@@ -27,8 +27,6 @@ is below `U0 = 10` ms.
 ## Folder layout
 
 ```
-Bala/
-├── Bala.Rproj                     RStudio project (open this so ./ paths work)
 ├── README                         this file
 │
 ├── utils.R                        low-level matrix helpers (gi, ai, bi, A^-1, ...)
@@ -48,7 +46,6 @@ Bala/
 │
 ├── Results/                       simulation output, one folder per scenario
 ├── Figure/                        generated PDF figures
-└── Other/                         exploratory / derivation-check scripts (not needed)
 ```
 
 ---
